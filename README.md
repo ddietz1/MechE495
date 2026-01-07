@@ -1,2 +1,6 @@
-# MechE495
-Quarter long project for Mechanical Engineering 495 at Northwestern
+# ME495 Sensing, Navigation and Machine Learning For Robotics
+* Derek Dietz
+* Winter 2025
+# Package List
+This repository consists of several ROS packages
+- <PACKAGE1> - <one sentence description>
